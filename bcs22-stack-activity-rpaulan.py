@@ -9,8 +9,6 @@ Create a task manager in python using stack with basic functionalities:
  bcs21-stack-activity-ffernandez.py
  """
 
-
-# implementation of task manager
 class TaskManager:
     def __init__(self):
         # empty stack
